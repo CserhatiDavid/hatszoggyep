@@ -37,7 +37,7 @@ function calc() {
     }else{
         alert("hibás adat")
     }
-    console.log(result)
+    //console.log(result)
 }    
 function calcHexagonArea(param){
     return result=(3/2)*(param**2)*Math.sqrt(3);
