@@ -42,9 +42,6 @@ function calc() {
 function calcHexagonArea(param){
     return result=(3/2)*(param**2)*Math.sqrt(3);
 }
-    
-    
-
 function checkInput(input) {
     let res=input.match(/^[0-9]+$/);
     return res;
